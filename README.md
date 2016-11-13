@@ -5,4 +5,7 @@ It follows the 4-d6 format (rolling a 6-sided dice 4 times), dropping the lowest
 
 From there, the player can decide which stats they want to put the 6 totals into.
 
-Simply clone down the repo, run the Ruby file with "ruby rolls.rb", and enter "y" for Yes, or "n" for No when prompted. "y" will initiate the rolling process. "n" will close out the app.
+Simply clone down the repo, run the Ruby file with "ruby rolls.rb", and enter "y" for Yes, or "n" for No when prompted.
+
+
+"y" will initiate the rolling process. "n" will close out the app.
